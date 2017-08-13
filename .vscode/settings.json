@@ -1,0 +1,11 @@
+{
+    "eslint.enable": true,
+    "eslint.autoFixOnSave": true,
+    "editor.tabSize": 2,
+    "files.exclude": {
+        "build": true,
+        ".elasticbeanstalk": true,
+        ".ebextensions": true,
+        "coverage": true
+    }
+}

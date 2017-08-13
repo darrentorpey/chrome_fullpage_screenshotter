@@ -1,0 +1,19 @@
+{
+  "name": "my_chromeless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chromeless": "1.2.0",
+    "eslint": "4.4.0",
+    "eslint-config-prettier": "2.3.0",
+    "eslint-plugin-prettier": "2.1.2",
+    "prettier": "1.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Darren Torpey",
+  "license": "ISC"
+}
